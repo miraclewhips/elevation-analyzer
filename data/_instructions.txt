@@ -1,0 +1,4 @@
+Elevation data from: https://www.ngdc.noaa.gov/mgg/topo/globeget.html
+
+1. Download the elevation data files from: https://www.ngdc.noaa.gov/mgg/topo/DATATILES/elev/all10g.zip
+2. Extract the files ("a10g", "b10g" ... "p10g") into the "data" directory (make sure the files are not in any folders, put them directly into the data directory)
